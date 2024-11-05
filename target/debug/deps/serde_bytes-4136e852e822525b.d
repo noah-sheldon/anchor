@@ -1,0 +1,10 @@
+/Users/noahsheldon/Documents/solanaSchool/task3-noah-sheldon/target/debug/deps/libserde_bytes-4136e852e822525b.rmeta: /Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/lib.rs /Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/bytearray.rs /Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/bytes.rs /Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/de.rs /Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/ser.rs /Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/bytebuf.rs
+
+/Users/noahsheldon/Documents/solanaSchool/task3-noah-sheldon/target/debug/deps/serde_bytes-4136e852e822525b.d: /Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/lib.rs /Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/bytearray.rs /Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/bytes.rs /Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/de.rs /Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/ser.rs /Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/bytebuf.rs
+
+/Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/lib.rs:
+/Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/bytearray.rs:
+/Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/bytes.rs:
+/Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/de.rs:
+/Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/ser.rs:
+/Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/serde_bytes-0.11.15/src/bytebuf.rs:

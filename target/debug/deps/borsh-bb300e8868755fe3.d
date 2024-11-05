@@ -1,0 +1,11 @@
+/Users/noahsheldon/Documents/solanaSchool/task3-noah-sheldon/target/debug/deps/libborsh-bb300e8868755fe3.rmeta: /Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.10.4/src/lib.rs /Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.10.4/src/de/mod.rs /Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.10.4/src/de/hint.rs /Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.10.4/src/schema.rs /Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.10.4/src/schema_helpers.rs /Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.10.4/src/ser/mod.rs /Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.10.4/src/ser/helpers.rs
+
+/Users/noahsheldon/Documents/solanaSchool/task3-noah-sheldon/target/debug/deps/borsh-bb300e8868755fe3.d: /Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.10.4/src/lib.rs /Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.10.4/src/de/mod.rs /Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.10.4/src/de/hint.rs /Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.10.4/src/schema.rs /Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.10.4/src/schema_helpers.rs /Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.10.4/src/ser/mod.rs /Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.10.4/src/ser/helpers.rs
+
+/Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.10.4/src/lib.rs:
+/Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.10.4/src/de/mod.rs:
+/Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.10.4/src/de/hint.rs:
+/Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.10.4/src/schema.rs:
+/Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.10.4/src/schema_helpers.rs:
+/Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.10.4/src/ser/mod.rs:
+/Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/borsh-0.10.4/src/ser/helpers.rs:

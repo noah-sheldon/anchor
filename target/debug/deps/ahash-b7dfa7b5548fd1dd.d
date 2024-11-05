@@ -1,0 +1,10 @@
+/Users/noahsheldon/Documents/solanaSchool/task3-noah-sheldon/target/debug/deps/libahash-b7dfa7b5548fd1dd.rmeta: /Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/lib.rs /Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/convert.rs /Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/fallback_hash.rs /Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/operations.rs /Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/random_state.rs /Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/specialize.rs
+
+/Users/noahsheldon/Documents/solanaSchool/task3-noah-sheldon/target/debug/deps/ahash-b7dfa7b5548fd1dd.d: /Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/lib.rs /Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/convert.rs /Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/fallback_hash.rs /Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/operations.rs /Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/random_state.rs /Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/specialize.rs
+
+/Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/lib.rs:
+/Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/convert.rs:
+/Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/fallback_hash.rs:
+/Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/operations.rs:
+/Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/random_state.rs:
+/Users/noahsheldon/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ahash-0.8.11/src/specialize.rs:
